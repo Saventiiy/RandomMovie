@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RandomMovie</string>
+    <string name="generate_button">Generate</string>
+</resources>
